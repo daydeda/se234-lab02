@@ -1,10 +1,10 @@
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
- ## Adding information ##
- * Jakkaphat Didsabanjong 682115008 
 
 - - - -
+ ## Adding information  ##
+      * Jakkaphat Didsabanjong 682115008
 # Heading 1 #
 
     Markup :  # Heading 1 #
