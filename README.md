@@ -2,6 +2,9 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - -
+
+## Adding information ##
+    * Chainarin Aintha 682115014
 # Heading 1 #
 
     Markup :  # Heading 1 #
